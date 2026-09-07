@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-um-opg-37089-shuffle-exchange-conjecture-graph-theo-a19b8e9f`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1359668937`
+- Repository node ID: `R_kgDOUQrmyQ`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
-- Harness suite: `harness-source:web-research-full` `1.2.1`
-- Suite manifest SHA-256: `ca1bd697d99dd30feee17295189135a9091cb33eb6bbdb40fa018cd1b4beaee1`
-- Harness snapshot SHA-256: `0353e8c60bc98aa388370c5007b118270016f58175080c1a262e875786c81603`
+- Canonical Problem: `problem:um-opg-37089-shuffle-exchange-conjecture-graph-theo-a19b8e9f`
+- ProblemContract SHA-256: `bd783988f84cb5fbf6fc2e55b08ab5c6ea19389cf6163cf50b5063d9a42057f4`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
+- Harness suite: `harness-source:web-research-full` `1.1.3`
+- Suite manifest SHA-256: `873d54ccacba84d38d491a10fbf185495a7cfa53dc41e91a3ba680f726d54400`
+- Harness snapshot SHA-256: `09177e1d13f05919792c359e3a7786866aa554be83fc941681f3b09e6411c1dd`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
